@@ -3,4 +3,3 @@ __pycache__
 brissytest
 db.sqlite3
 .DS_Store
-myvenv
